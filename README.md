@@ -2,7 +2,7 @@
 ### **Backend Developer | Cloud Computing Enthusiast**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=1000&height=70&duration=4000&color=FF6B6B&lines=Backend+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=FF6B6B&lines=Backend+Developer;Cloud+Computing+Enthusiast;Building+Scalable+Systems" />
 </div>
 
 <p align="center">
@@ -78,8 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tanikasri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanikasri&layout=compact&theme=tokyonight&langs_count=8" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanikasri&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -117,5 +115,5 @@
 > *"Great backend systems are invisible — they just work, scale, and never break."*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100§ion=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
