@@ -1,4 +1,4 @@
-# 👩‍💻 Tanikasri S
+#  Tanikasri S
 ### **Backend Developer | Cloud Computing Enthusiast**
 
 <div align="center">
