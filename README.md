@@ -1,8 +1,5 @@
-<h1 align="center" style="color: #ffffff;">Tanikasri S</h1>
-<h3 align="center"><b>Full Stack Developer | Cloud Computing Enthusiast | Backend Developer</b></h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=FF6B6B&lines=Full+Stack+Developer;Cloud+Computing+Enthusiast;Backend+Developer" />
+  <img src="assets/header_banner.png" width="100%" alt="Tanikasri S Header Banner" />
 </div>
 
 <p align="center">
