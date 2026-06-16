@@ -86,7 +86,7 @@
 <td valign="top" width="50%">
 
 <h3>📊 GitHub 3D Contribution Calendar</h3>
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=tanikasri&theme=rainbow" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 <hr/>
 
