@@ -113,31 +113,66 @@
 ### 🚀 Projects
 
 #### 🌐 Website Change Detection System
-* **Technologies:** Python, Flask/FastAPI, REST APIs, PostgreSQL, AWS, GCP Cloud Storage, Docker, GitHub Actions
-* Engineered a scalable RESTful backend to monitor website content changes using hashing algorithms, reducing manual tracking effort by 80%.
-* Structured backend services with API routing, JSON responses, modular components, and API testing for reliable business workflows.
-* Designed cloud-ready metadata and storage workflows aligned with PostgreSQL/Supabase, AWS S3/DynamoDB, and Google Cloud Storage.
-* Containerized all services using Docker Compose and prepared CI/CD-ready deployment workflows for GCP Cloud Run, Render, and GitHub Actions.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+- Engineered a scalable RESTful backend to monitor website content changes using hashing algorithms, reducing manual tracking effort by 80%.
+- Structured backend services with API routing, JSON responses, modular components, and API testing for reliable business workflows.
+- Designed cloud-ready metadata and storage workflows aligned with PostgreSQL/Supabase, AWS S3/DynamoDB, and Google Cloud Storage.
+- Containerized all services using Docker Compose and prepared CI/CD-ready deployment workflows for GCP Cloud Run, Render, and GitHub Actions.
 
 #### ☁️ Cloud Contact Form Application
-* **Technologies:** React, HTML/CSS, REST APIs, GCP Cloud Run, Cloud Storage, AWS Lambda, API Gateway, SES, Docker
-* Built a cloud-native full-stack contact form application with a responsive frontend and secure REST API endpoints for handling user submissions and business inquiries.
-* Developed backend workflows to validate form data, process requests, and trigger automated email notifications using AWS SES/API Gateway concepts.
-* Deployed containerized backend services using Docker and GCP Cloud Run, enabling scalable serverless-style execution with minimal infrastructure management.
-* Designed a low-maintenance cloud architecture focused on API integration, cost efficiency, reliability, and deployment readiness.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/SES-FF9900?style=flat-square&logo=amazonsimpleemailservice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+- Built a cloud-native full-stack contact form application with a responsive frontend and secure REST API endpoints for handling user submissions and business inquiries.
+- Developed backend workflows to validate form data, process requests, and trigger automated email notifications using AWS SES/API Gateway concepts.
+- Deployed containerized backend services using Docker and GCP Cloud Run, enabling scalable serverless-style execution with minimal infrastructure management.
+- Designed a low-maintenance cloud architecture focused on API integration, cost efficiency, reliability, and deployment readiness.
 
 #### 🤖 AI-Driven Employee Request Validation System
-* **Technologies:** Python, Flask, REST APIs, NLP, Machine Learning, Microsoft Excel
-* Developed an intelligent validation system to automate employee WFH, leave, and travel request checks using NLP-based text processing and rule-based business logic.
-* Built REST API workflows to collect request data, validate eligibility conditions, and maintain Microsoft Excel-based request tracking and validation reports for approval analysis.
-* Prepared Gemini API-style prompt workflows to generate AI-based decision explanations and support future enterprise decision-support features.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+- Developed an intelligent validation system to automate employee WFH, leave, and travel request checks using NLP-based text processing and rule-based business logic.
+- Built REST API workflows to collect request data, validate eligibility conditions, and maintain Microsoft Excel-based request tracking and validation reports for approval analysis.
+- Prepared Gemini API-style prompt workflows to generate AI-based decision explanations and support future enterprise decision-support features.
 
 #### 🏥 MEDSEVA - Telemedicine Mobile Application
-* **Technologies:** Flutter, Dart, Google ML Kit OCR, PostgreSQL, SharedPreferences, Image Picker
-* Developed a healthcare application for patient records, medical report upload, profile management, and doctor appointment booking.
-* Integrated Google ML Kit OCR to extract text from medical documents, reducing manual data entry by 60%.
-* Used PostgreSQL concepts to manage patient records, appointment details, and doctor availability data.
-* Built appointment booking and doctor availability modules to improve scheduling efficiency and healthcare accessibility.
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ML%20Kit%20OCR-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharedPreferences-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
+
+- Developed a healthcare application for patient records, medical report upload, profile management, and doctor appointment booking.
+- Integrated Google ML Kit OCR to extract text from medical documents, reducing manual data entry by 60%.
+- Used PostgreSQL concepts to manage patient records, appointment details, and doctor availability data.
+- Built appointment booking and doctor availability modules to improve scheduling efficiency and healthcare accessibility.
 
 ---
 
