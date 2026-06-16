@@ -20,92 +20,92 @@
 ---
 
 <table>
-  <tr>
-    <!-- Left Column: Summary and Tech Stack -->
-    <td valign="top" width="50%">
-      
-      <h3>🏛️ Professional Summary</h3>
-      <p>Computer Science Engineering student with experience in building REST APIs, Flask-based web applications, mobile apps, and cloud-enabled projects. Strong foundation in web development, backend systems, AWS, Docker, databases, and API testing. Interested in learning product security practices and building reliable, well-tested, and secure applications.</p>
-      
-      <hr/>
-      
-      <h3>💻 Tech Stack & Expertise</h3>
-      
-      <ul>
-        <li><b>Programming Languages:</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" title="C++" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="SQL" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" title="Dart" />
-        </li>
-        <br/>
-        <li><b>Backend & APIs:</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" title="Flask" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" title="FastAPI" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" title="NodeJS" />
-          <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=flat-square&logo=api&logoColor=white" height="32" title="REST APIs" />
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="32" title="Postman" />
-        </li>
-        <br/>
-        <li><b>Frontend & Mobile:</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" title="Flutter" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML5" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" title="CSS3" />
-        </li>
-        <br/>
-        <li><b>Cloud & DevOps:</b><br/>
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="32" title="AWS" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" title="GCP" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" title="Kubernetes" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" title="Jenkins" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
-        </li>
-        <br/>
-        <li><b>Databases:</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" title="MongoDB" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" title="PostgreSQL" />
-          <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" height="32" title="DynamoDB" />
-        </li>
-        <br/>
-        <li><b>AI & Tools:</b><br/>
-          <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="32" title="NLP" />
-          <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=scikitlearn&logoColor=white" height="32" title="ML" />
-          <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" height="32" title="Gemini" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" title="VS Code" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux" />
-        </li>
-      </ul>
+<tr>
+<!-- Left Column: Summary and Tech Stack -->
+<td valign="top" width="50%">
 
-    </td>
-    
-    <!-- Right Column: Contribution, Languages, and Experience -->
-    <td valign="top" width="50%">
-      
-      <h3>📊 GitHub 3D Contribution Calendar</h3>
-      <img src="https://github-profile-3d-contrib.vercel.app/api?username=tanikasri&theme=rainbow" width="100%" />
-      
-      <hr/>
-      
-      <h3>🧮 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanikasri&layout=compact&theme=tokyonight&langs_count=6" width="100%" />
-      
-      <hr/>
-      
-      <h3>💼 Work Experience</h3>
-      <p><b>Wipro Limited</b> — <i>Intern - Power Platform and AI/ML</i> (Jan 2026 - Feb 2026)</p>
-      <ul>
-        <li>Developed enterprise applications using Power Apps to improve workflow automation, task tracking, and business process efficiency.</li>
-        <li>Designed SharePoint-based data systems, Microsoft Excel reports, and Power BI dashboards for KPI reporting, analytics, and decision support.</li>
-        <li>Collaborated in Agile development cycles with cross-functional teams while documenting blockers, updates, and implementation progress.</li>
-        <li>Applied NLP, rule-based validation, and AI/ML concepts to automate employee request decision workflows.</li>
-      </ul>
+<h3>🏛️ Professional Summary</h3>
+<p>Computer Science Engineering student with experience in building REST APIs, Flask-based web applications, mobile apps, and cloud-enabled projects. Strong foundation in web development, backend systems, AWS, Docker, databases, and API testing. Interested in learning product security practices and building reliable, well-tested, and secure applications.</p>
 
-    </td>
-  </tr>
+<hr/>
+
+<h3>💻 Tech Stack & Expertise</h3>
+
+<ul>
+<li><b>Programming Languages:</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="SQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" title="Dart" />
+</li>
+<br/>
+<li><b>Backend & APIs:</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" title="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" title="FastAPI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" title="NodeJS" />
+<img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=flat-square&logo=api&logoColor=white" height="32" title="REST APIs" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="32" title="Postman" />
+</li>
+<br/>
+<li><b>Frontend & Mobile:</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" title="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" title="CSS3" />
+</li>
+<br/>
+<li><b>Cloud & DevOps:</b><br/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="32" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" title="GCP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32" title="Kubernetes" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="32" title="Jenkins" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
+</li>
+<br/>
+<li><b>Databases:</b><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" title="PostgreSQL" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" height="32" title="DynamoDB" />
+</li>
+<br/>
+<li><b>AI & Tools:</b><br/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="32" title="NLP" />
+<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=flat-square&logo=scikitlearn&logoColor=white" height="32" title="ML" />
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" height="32" title="Gemini" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" title="Linux" />
+</li>
+</ul>
+
+</td>
+
+<!-- Right Column: Contribution, Languages, and Experience -->
+<td valign="top" width="50%">
+
+<h3>📊 GitHub 3D Contribution Calendar</h3>
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=tanikasri&theme=rainbow" width="100%" />
+
+<hr/>
+
+<h3>🧮 Most Used Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanikasri&layout=compact&theme=tokyonight&langs_count=6" width="100%" />
+
+<hr/>
+
+<h3>💼 Work Experience</h3>
+<p><b>Wipro Limited</b> — <i>Intern - Power Platform and AI/ML</i> (Jan 2026 - Feb 2026)</p>
+<ul>
+<li>Developed enterprise applications using Power Apps to improve workflow automation, task tracking, and business process efficiency.</li>
+<li>Designed SharePoint-based data systems, Microsoft Excel reports, and Power BI dashboards for KPI reporting, analytics, and decision support.</li>
+<li>Collaborated in Agile development cycles with cross-functional teams while documenting blockers, updates, and implementation progress.</li>
+<li>Applied NLP, rule-based validation, and AI/ML concepts to automate employee request decision workflows.</li>
+</ul>
+
+</td>
+</tr>
 </table>
 
 ---
