@@ -185,22 +185,59 @@
 
 ### 📜 Certifications
 
-- ☁️ **AWS Cloud Practitioner Essentials**
-- 🎓 **AWS Academy Graduate - Cloud Foundations**
-- 🧠 **AWS AI/ML Scholar | IBM SkillBuild Foundational AI**
-- 🐍 **Python Programming Certification**
-- ☕ **Advanced Diploma in Java Programming**
-- 💼 **Accenture Software Engineering Job Simulation**
-- 🎖️ **TCS iON Young Professional**
-- 📱 **Flutter Development Certification**
+<table>
+  <tr>
+    <td align="center" width="120px"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /></td>
+    <td><b>AWS Cloud Practitioner Essentials</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" /></td>
+    <td><b>AWS Academy Graduate - Cloud Foundations</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/AWS%20%7C%20IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" /></td>
+    <td><b>AWS AI/ML Scholar | IBM SkillBuild Foundational AI</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></td>
+    <td><b>Python Programming Certification</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></td>
+    <td><b>Advanced Diploma in Java Programming</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Accenture-000000?style=flat-square&logo=accenture&logoColor=white" /></td>
+    <td><b>Accenture Software Engineering Job Simulation</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/TCS%20iON-004B87?style=flat-square&logo=tata&logoColor=white" /></td>
+    <td><b>TCS iON Young Professional</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></td>
+    <td><b>Flutter Development Certification</b></td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Achievements & Leadership
 
-- 🥇 **Elite Batch Selection** (Recognized among the Top 200 students for academic excellence and technical potential)
-- 🥈 **Finalist** - TNWISE Hackathon Startup Ecosystem (2025)
-- 🥉 **Participant** - World Wide Technology All India Women Hackathon (2025)
+<table>
+  <tr>
+    <td align="center" width="50px">🥇</td>
+    <td><b>Elite Batch Selection</b> (Recognized among the Top 200 students for academic excellence and technical potential)</td>
+  </tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td><b>Finalist</b> - TNWISE Hackathon Startup Ecosystem (2025)</td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td><b>Participant</b> - World Wide Technology All India Women Hackathon (2025)</td>
+  </tr>
+</table>
 
 ---
 
