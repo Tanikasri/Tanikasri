@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header_banner.png" width="100%" alt="Tanikasri S Header Banner" />
+  <img src="assets/header_banner.png" width="100%" style="max-width: 750px;" alt="Tanikasri S Header Banner" />
 </div>
 
 <p align="center">
