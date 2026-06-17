@@ -83,7 +83,7 @@
 
 </td>
 
-<!-- Right Column: Contribution, Languages, and Experience -->
+<!-- Right Column: Contribution and Languages -->
 <td valign="top" width="50%">
 
 <h3>📊 GitHub 3D Contribution Calendar</h3>
@@ -94,20 +94,19 @@
 <h3>🧮 Most Used Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanikasri&layout=compact&theme=tokyonight&langs_count=6" width="100%" />
 
-<hr/>
-
-<h3>💼 Work Experience</h3>
-<p><b>Wipro Limited</b> — <i>Intern - Power Platform and AI/ML</i> (Jan 2026 - Feb 2026)</p>
-<ul>
-<li>Developed enterprise applications using Power Apps to improve workflow automation, task tracking, and business process efficiency.</li>
-<li>Designed SharePoint-based data systems, Microsoft Excel reports, and Power BI dashboards for KPI reporting, analytics, and decision support.</li>
-<li>Collaborated in Agile development cycles with cross-functional teams while documenting blockers, updates, and implementation progress.</li>
-<li>Applied NLP, rule-based validation, and AI/ML concepts to automate employee request decision workflows.</li>
-</ul>
-
 </td>
 </tr>
 </table>
+
+---
+
+### 💼 Work Experience
+
+**Wipro Limited** — *Intern - Power Platform and AI/ML* (Jan 2026 - Feb 2026)
+- Developed enterprise applications using Power Apps to improve workflow automation, task tracking, and business process efficiency.
+- Designed SharePoint-based data systems, Microsoft Excel reports, and Power BI dashboards for KPI reporting, analytics, and decision support.
+- Collaborated in Agile development cycles with cross-functional teams while documenting blockers, updates, and implementation progress.
+- Applied NLP, rule-based validation, and AI/ML concepts to automate employee request decision workflows.
 
 ---
 
